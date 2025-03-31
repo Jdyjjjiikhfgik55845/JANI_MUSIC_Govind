@@ -68,10 +68,10 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝗢𝘄𝗻𝗲𝗿  💬", url=f"https://t.me/ANJESH_SONU"
+                text="𝗢𝘄𝗻𝗲𝗿  💬", url=f"https://t.me/Jani_Owner"
             ),
             InlineKeyboardButton(
-                text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁  💬", url=f"https://t.me/+ZInYo4WtbRU0NzU1"
+                text="𝗨𝗽𝗱𝗮𝘁𝗲𝘀  💬", url=f"https://t.me/Jani_RP"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="✰ 𝗢𝘄𝗻𝗲𝗿 ✰", url=f"https://t.me/ANJESH_SONU"
+                text="𝗢𝘄𝗻𝗲𝗿 ✰", url=f"https://t.me/Jani_Owner"
             ),
             InlineKeyboardButton(
-                text="✰ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ✰", url=f"https://t.me/+ZInYo4WtbRU0NzU1"
+                text="𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ✰", url=f"https://t.me/Jani_RP"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -245,10 +245,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="❤️‍🔥 𝗢𝘄𝗻𝗲𝗿 😘", url=f"https://t.me/ANJESH_SONU"
+                text="𝗢𝘄𝗻𝗲𝗿 😘", url=f"https://t.me/Jani_Owner"
             ),
             InlineKeyboardButton(
-                text="✰ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ✰", url=f"https://t.me/+ZInYo4WtbRU0NzU1"
+                text="𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ✰", url=f"https://t.me/Jani_RP"
             ),
         ],
 
